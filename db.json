@@ -2,8 +2,11 @@
   "users": [
     {
       "id": 1,
-      "firstname": "Fathul",
-      "lastname": "Irfaan"
+      "firstName": "Fathul",
+      "lastName": "Irfaan",
+      "hobbies": [
+        "sleeping"
+      ]
     }
   ]
 }
